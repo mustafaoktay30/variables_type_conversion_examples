@@ -1,0 +1,14 @@
+C:\Users\WII\source\repos\kararYapılarıveDöngülerÖdev\kararYapılarıveDöngülerÖdev\bin\Debug\net6.0\kararYapılarıveDöngülerÖdev.exe
+C:\Users\WII\source\repos\kararYapılarıveDöngülerÖdev\kararYapılarıveDöngülerÖdev\bin\Debug\net6.0\kararYapılarıveDöngülerÖdev.deps.json
+C:\Users\WII\source\repos\kararYapılarıveDöngülerÖdev\kararYapılarıveDöngülerÖdev\bin\Debug\net6.0\kararYapılarıveDöngülerÖdev.runtimeconfig.json
+C:\Users\WII\source\repos\kararYapılarıveDöngülerÖdev\kararYapılarıveDöngülerÖdev\bin\Debug\net6.0\kararYapılarıveDöngülerÖdev.dll
+C:\Users\WII\source\repos\kararYapılarıveDöngülerÖdev\kararYapılarıveDöngülerÖdev\bin\Debug\net6.0\kararYapılarıveDöngülerÖdev.pdb
+C:\Users\WII\source\repos\kararYapılarıveDöngülerÖdev\kararYapılarıveDöngülerÖdev\obj\Debug\net6.0\kararYapılarıveDöngülerÖdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WII\source\repos\kararYapılarıveDöngülerÖdev\kararYapılarıveDöngülerÖdev\obj\Debug\net6.0\kararYapılarıveDöngülerÖdev.AssemblyInfoInputs.cache
+C:\Users\WII\source\repos\kararYapılarıveDöngülerÖdev\kararYapılarıveDöngülerÖdev\obj\Debug\net6.0\kararYapılarıveDöngülerÖdev.AssemblyInfo.cs
+C:\Users\WII\source\repos\kararYapılarıveDöngülerÖdev\kararYapılarıveDöngülerÖdev\obj\Debug\net6.0\kararYapılarıveDöngülerÖdev.csproj.CoreCompileInputs.cache
+C:\Users\WII\source\repos\kararYapılarıveDöngülerÖdev\kararYapılarıveDöngülerÖdev\obj\Debug\net6.0\kararYapılarıveDöngülerÖdev.dll
+C:\Users\WII\source\repos\kararYapılarıveDöngülerÖdev\kararYapılarıveDöngülerÖdev\obj\Debug\net6.0\refint\kararYapılarıveDöngülerÖdev.dll
+C:\Users\WII\source\repos\kararYapılarıveDöngülerÖdev\kararYapılarıveDöngülerÖdev\obj\Debug\net6.0\kararYapılarıveDöngülerÖdev.pdb
+C:\Users\WII\source\repos\kararYapılarıveDöngülerÖdev\kararYapılarıveDöngülerÖdev\obj\Debug\net6.0\kararYapılarıveDöngülerÖdev.genruntimeconfig.cache
+C:\Users\WII\source\repos\kararYapılarıveDöngülerÖdev\kararYapılarıveDöngülerÖdev\obj\Debug\net6.0\ref\kararYapılarıveDöngülerÖdev.dll
